@@ -1,4 +1,8 @@
-# Challenge_20
+# Smart Contract Using Solidity 
+
+In this demo, it showcases 2 seperate accounts with user addresses, that are able to send/ receive ether from one another. 
+
+
 
 <img width="1440" alt="today" src="https://user-images.githubusercontent.com/105071493/203686136-e1a4cb86-a356-40bd-9a0a-84ba1badcd42.png">
 
