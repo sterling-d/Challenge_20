@@ -2,7 +2,7 @@
 
 ## Overview 
 
-This application is based on a Solidity smart contract that automates the financial process and features of joint saving accounts.This smart contract accepts two user addresses that controls a joint savings account by using ether management function to implement financial institutions requirements for providing the ability to deposit and withdraw the funds from the account.
+This application is based on a Solidity smart contract that automates the financial process and features of joint saving accounts. This smart contract accepts two user addresses that controls a joint savings account by using ether management function to implement financial institutions requirements for providing the ability to deposit and withdraw the funds from the account.
 
 ## Technology 
 
